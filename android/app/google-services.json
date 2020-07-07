@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36783850686",
+    "firebase_url": "https://shield-5afb5.firebaseio.com",
+    "project_id": "shield-5afb5",
+    "storage_bucket": "shield-5afb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36783850686:android:844b0a82f33a79c232caef",
+        "android_client_info": {
+          "package_name": "com.shield.healthdeclarationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36783850686-8a3mba95qeu1kr0448lm1nuriv2n3j81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shield.healthdeclarationform",
+            "certificate_hash": "fb2b1fc47654629b8d77b28cc4eb658cd588b6dc"
+          }
+        },
+        {
+          "client_id": "36783850686-vs5n45bjbm98ja2m1lif3cv3bhbiu1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZGc0rkt1jkytahPggRazbyRjeO9GBKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36783850686-vs5n45bjbm98ja2m1lif3cv3bhbiu1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
